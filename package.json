@@ -1,0 +1,20 @@
+{
+    "name": "basesite",
+    "version": "1.0.0",
+    "description": "Hello! This is another website.",
+    "main": "index.js",
+    "author": "RONTheCookie <ronthecookie0101@gmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "command-line-args": "^5.0.2",
+        "mz": "^2.7.0"
+    },
+    "dependencies": {
+        "ejs": "^2.6.1",
+        "express": "^4.16.3",
+        "rethinkdbdash": "^2.3.31"
+    },
+    "scripts": {
+        "start": "node ."
+    }
+}
